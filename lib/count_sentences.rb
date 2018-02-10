@@ -20,5 +20,5 @@ class String
     number_sentences.delete("")
     number_sentences.count
   end
-  binding.pry
+#  binding.pry
 end
